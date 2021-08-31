@@ -1,0 +1,25 @@
+{
+  "name": "Megumin",
+  "version": "0.0.1",
+  "description": "Dev by Wissame",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getCodingKnowledge/djs13-debutants.git"
+  },
+  "keywords": [],
+  "author": "aa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/getCodingKnowledge/djs13-debutants/issues"
+  },
+  "homepage": "https://github.com/getCodingKnowledge/djs13-debutants#readme",
+  "dependencies": {
+    "discord.js": "^13.0.0",
+    "discord-akairo": "github:SkyBlockDev/discord-akairo"
+  }
+}
